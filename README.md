@@ -44,7 +44,7 @@ And it was the updated version of social recon which i was published earlier.
 
 # Screenshot
 
-<img src="https://github.com/Ramalingasamy012/Infosint/blob/main/screenshot.png">
+<img src="https://github.com/sar1m/infosint/blob/main/infosint.png">
 
 # Installation
 
